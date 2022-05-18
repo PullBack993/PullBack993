@@ -1,10 +1,11 @@
 
 - 🔭 I’m currently working on [Angular/Node JS(Express) Mongo DB](https://github.com/PullBack993/Angular-Project)
-
-- 📫 How to reach me <p align="right">
+- 
+<div display:flex;>
+- 📫 How to reach me <p margin-left: 20%;>
 <a href="https://linkedin.com/in/turgay-ismailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turgay-ismailov" height="30" width="40" /></a>
 </p>
-
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>

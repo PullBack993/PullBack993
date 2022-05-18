@@ -21,4 +21,3 @@
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pullback993&theme=tokyonight)
